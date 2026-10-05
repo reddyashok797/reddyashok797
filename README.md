@@ -61,3 +61,15 @@ MySQL • PostgreSQL • MongoDB • Redis
 **Other:**  
 Git • GitHub • Bash • Python • PowerShell
 
+
+📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=reddyashok797&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyashok797&layout=compact&theme=default&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddyashok797&theme=default&hide_border=true" />
+</p>
+
